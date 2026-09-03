@@ -70,7 +70,7 @@ I also write, draw, make things, and occasionally get on a stage with a micropho
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anirudh%20Sharma-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v-s-s-anirudh-sharma-ab405617b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anirudh%20Sharma-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ml-engineer-v-s-s-anirudh-sharma/)
 [![X](https://img.shields.io/badge/X-@v__anirudhsharma-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/v_anirudhsharma)
 [![GitHub](https://img.shields.io/badge/GitHub-showman--sharma-181717?style=flat&logo=github&logoColor=white)](https://github.com/showman-sharma)
 
