@@ -32,6 +32,8 @@ HumanEval experimentation across **self-consistency, structured reasoning, self-
 ### 🌱 [Gradient Ascent Syndicate](https://github.com/gradient-ascent-syndicate)
 An open initiative to build a **comprehensive, implementation-first AI/ML curriculum**, from mathematical foundations and classical ML through deep learning, modern LLM systems, and agents.
 
+**→ [View the curated project portfolio](./PROJECTS.md)**
+
 ---
 
 ## Research
